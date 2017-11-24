@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ExportCountryToExcel", "ExportCountryToExcel\ExportCountryToExcel.dtproj", "{9E3910BA-60DD-45EE-A44B-B01A9ADF0389}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E3910BA-60DD-45EE-A44B-B01A9ADF0389}.Development|Default.ActiveCfg = Development
+		{9E3910BA-60DD-45EE-A44B-B01A9ADF0389}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7EFA084-CA21-40DB-B946-5F9A4260E507}
+	EndGlobalSection
+EndGlobal
